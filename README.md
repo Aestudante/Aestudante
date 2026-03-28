@@ -4,19 +4,19 @@
 
 ## > about me
 
-```bash
-name        : Afonso Quintas
-location    : Portugal
-university  : Universidade da Madeira
-course      : Computer Science
-year        : 2nd
+```diff
++ name        : Afonso Quintas
++ location    : Portugal
++ university  : Universidade da Madeira
++ course      : Engenharia Informática
++ year        : 2nd
 
-interests   :
-  - systems & networking
-  - cybersecurity
-  - data science
++ interests   :
++   - systems & networking
++   - cybersecurity
++   - data science
 
-status      : building
++ status      : building
 ```
 ## > skills
 
