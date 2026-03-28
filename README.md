@@ -8,7 +8,7 @@
 name        : Afonso Quintas
 location    : Portugal
 university  : Universidade da Madeira
-course      : Computer Science (BSc)
+course      : Computer Science
 year        : 2nd
 
 interests   :
