@@ -1,4 +1,4 @@
-## > about --verbose
+## > About me
 
 ```bash
 name:        Afonso Quintas
