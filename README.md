@@ -18,3 +18,12 @@ interests   :
 
 status      : building
 ```
+## > skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,python,java,lua" />
+</p>
+
+<p align="center">
+  C++ • JavaScript • HTML • CSS • Python • Java • Lua
+</p>
